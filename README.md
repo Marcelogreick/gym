@@ -126,12 +126,4 @@ Para visualizar a documentação da API, acesse [http://localhost:3333/api-docs]
 
 Distribuído sob a licença **_MIT_**. Veja [LICENSE](LICENSE) para mais informações.
 
-## Autor
-
-Feito por Marcel Kaled. Entre em contato!
-
 ---
-
-<h5 align="center">
-  &copy;2022 - <a href="https://github.com/mgckaled/">Marcel Kaled</a>
-</h5>
